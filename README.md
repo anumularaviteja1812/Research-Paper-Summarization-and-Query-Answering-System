@@ -1,0 +1,2 @@
+# Research-Paper-Summarization-and-Query-Answering-System
+Fine-tuned T5-small on 75,000 Arxiv documents for abstractive summarization demonstrating effective summary generation. Built a Retrieval-Augmented Generation (RAG) pipeline by integrating FAISS with Sentence-Transformer embeddings and spaCy preprocessing, enabling GPT-3.5 to generate context-aware responses with improved relevance and accuracy.
